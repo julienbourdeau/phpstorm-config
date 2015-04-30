@@ -4,7 +4,6 @@ colors
 componentVersions
 disabled_plugins.txt
 eval
-fileTemplates
 filetypes
 inspection
 jdbc-drivers
