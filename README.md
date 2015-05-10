@@ -2,6 +2,10 @@
 
 This is my global configuration for [PhpStorm](https://www.jetbrains.com/phpstorm/),an IDE for PHP.
 
+# Todo
+
+- [ ] Move to symlink in `~/Projets/` like my [dotfiles](https://github.com/julienbourdeau/dotfiles)
+
 # Installation
 
 Before you do this, make sure PhpStorm is not running, or it will overwrite your changes.
