@@ -19,6 +19,9 @@
   <action id="Diff.UpdatedFiles" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDuplicate" />
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift END" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -29,19 +32,31 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta P" />
   </action>
+  <action id="GotoRelated" />
+  <action id="IncrementWindowWidth" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="control meta DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="control meta UP" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowRight" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta D" />
   </action>
   <action id="SendEOF" />
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="control meta DOWN" />
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="control meta RIGHT" />
+    <keyboard-shortcut first-keystroke="shift meta RIGHT" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
