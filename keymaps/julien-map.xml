@@ -7,6 +7,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
