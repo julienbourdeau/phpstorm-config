@@ -1,0 +1,8 @@
+.DS_Store
+
+disabled_plugins.txt
+phpstorm*.key
+componentVersions
+tasks/
+jdbc-drivers
+
