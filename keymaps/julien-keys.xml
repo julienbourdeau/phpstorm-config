@@ -1,4 +1,4 @@
-<keymap version="1" name="Julien' keys" parent="Mac OS X 10.5+">
+<keymap version="1" name="julien-keys" parent="Mac OS X 10.5+">
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
