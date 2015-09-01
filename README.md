@@ -21,12 +21,16 @@ rm -r colors/
 rm -r fileTemplates/
 rm -r inspection/
 rm -r keymaps/
+rm -r options/
+rm -r quicklists/
+rm -r tools/
+rm -r port
 
 # pull this repository
 git init
 git remote add origin git@github.com:julienbourdeau/phpstorm-config.git
 git fetch
-git checkout -t origin/master
+git checkout WebIde90
 ```
 
 
@@ -41,6 +45,9 @@ filetypes | File Types (Editor > File Types)
 inspection | Inspection profiles (Editor > Inspections)
 keymaps | Keyboard shortcuts (Appearance & Behavior > Keymap)
 templates | Live templates (Editor > Live Templates)
+options | dunno yet
+quicklists | dunno yet
+tools | dunno yet
 
 # Credits
 
