@@ -21,7 +21,6 @@ rm -r colors/
 rm -r fileTemplates/
 rm -r inspection/
 rm -r keymaps/
-rm -r options/
 rm -r quicklists/
 rm -r tools/
 rm -r port
@@ -45,7 +44,6 @@ filetypes | File Types (Editor > File Types)
 inspection | Inspection profiles (Editor > Inspections)
 keymaps | Keyboard shortcuts (Appearance & Behavior > Keymap)
 templates | Live templates (Editor > Live Templates)
-options | dunno yet
 quicklists | dunno yet
 tools | dunno yet
 
