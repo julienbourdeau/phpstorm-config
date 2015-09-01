@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2e56fce7-e183-4df6-9b92-483caa3fc199" name="Ondemand Dev VM" url="http://jbourdeau.dotcom.prestashop.local">
+        <fileTransfer host="jbourdeau.dotcom.prestashop.local" port="22" rootFolder="/home/www-data/website/dotcom/ondemand/modules/awesomehosting" accessType="SFTP" password="dfdadfd8dfcfdfd9dfdedfcbdfdddfcfdfc8" username="www-data">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

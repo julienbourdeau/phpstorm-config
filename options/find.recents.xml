@@ -1,0 +1,41 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>$data</find>
+      <find>changeCurrencySpecificPrice</find>
+      <find>PS_PRICE_COMPUTE_PRECISION</find>
+      <find>$this-&gt;reduction_amount_tax_incl = $this-&gt;reduction_amount;</find>
+      <find>before</find>
+      <find>invoice</find>
+      <find>tax_tab</find>
+      <find>'header.tpl'</find>
+      <find>tax_label</find>
+      <find>'tax_label'</find>
+      <find>order_detail_tax_label</find>
+      <find>this-&gt;l</find>
+      <find>pdf/header.tpl</find>
+      <find>margin</find>
+      <find>(18)</find>
+      <find>-&gt;header_margin</find>
+      <find>cell_padding</find>
+      <find>header.tpl</find>
+      <find>PS_INVOICE_ADDRESS_PATTERN_RULES</find>
+      <find>rule</find>
+      <find>GR</find>
+      <find>iso</find>
+      <find>Avoirs</find>
+      <find>actuall</find>
+      <find>p($li</find>
+      <find>log emails</find>
+      <find>log</find>
+      <find>PS_LOG_EMAILS</find>
+      <find>//.*?</find>
+      <find>order_details</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Sites/PrestaShop</dir>
+      <dir>$USER_HOME$/Sites/PrestaShop/classes/pdf</dir>
+      <dir>$USER_HOME$/Sites/PrestaShop/pdf</dir>
+    </dirStrings>
+  </component>
+</application>

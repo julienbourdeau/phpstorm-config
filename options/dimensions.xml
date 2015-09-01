@@ -1,0 +1,73 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="802" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="998" y="532" />
+    <location key="OptionsEditor.2560.282.1920.1080" x="2908" y="410" />
+    <location key="DiffWindow.2560.282.1920.1080" x="2660" y="405" />
+    <location key="com.intellij.ide.util.TipDialog.2560.282.1920.1080" x="3238" y="660" />
+    <location key="com.jetbrains.plugins.webDeployment.ui.AdvancedOptionsDialog.2560.282.1920.1080" x="3346" y="755" />
+    <location key="WELCOME_SCREEN.2560.282.1920.1080" x="3520" y="528" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.2560.282.1920.1080" x="3261" y="727" />
+    <location key="OptionsEditor.-1920.441.1920.1080" x="-1572" y="569" />
+    <location key="com.intellij.ide.util.TipDialog.-1920.441.1920.1080" x="-1242" y="819" />
+    <location key="#Browse_Repositories.-1920.441.1920.1080" x="-1384" y="649" />
+    <location key="StructurePopup.-1920.441.1920.1080" x="-1172" y="761" />
+    <location key="WELCOME_SCREEN.-1920.441.1920.1080" x="1279" y="300" />
+    <location key="findTextDialog.0.0.2560.1440" x="1074" y="475" />
+    <location key="#Inspections.0.0.2560.1440" x="918" y="392" />
+    <location key="OptionsEditor.0.0.2560.1440" x="395" y="135" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="383" y="310" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="868" y="367" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1068" y="467" />
+    <location key="#PHP.0.0.2560.1440" x="1012" y="380" />
+    <location key="NewPhpClassDialog.0.0.2560.1440" x="1106" y="540" />
+    <location key="StructurePopup.0.0.2560.1440" x="1028" y="420" />
+    <location key="#Interpreters.0.0.2560.1440" x="766" y="299" />
+    <location key="NewPhpFileDialog.0.0.2560.1440" x="1099" y="638" />
+    <location key="#SQL_Dialects.0.0.2560.1440" x="811" y="530" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1118" y="325" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="428" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="934" y="416" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="1021" y="600" />
+    <location key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1.0.0.2560.1440" x="1042" y="245" />
+    <location key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0.0.0.2560.1440" x="1042" y="323" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.2560.1440" x="1057" y="560" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.2560.1440" x="844" y="397" />
+    <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.2560.1440" x="100" y="123" />
+    <location key="DiffWindow.0.0.2560.1440" x="100" y="123" />
+    <location key="VCS.FileHistoryDialog.0.0.2560.1440" x="62" y="58" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="768" y="675" />
+    <location key="VCS.ChangeListViewerDialog.0.0.2560.1440" x="1068" y="23" />
+    <location key="RollbackChangesDialog.0.0.2560.1440" x="1067" y="440" />
+    <location key="#Directories.0.0.2560.1440" x="1054" y="461" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.2560.1440" x="1007" y="442" />
+    <location key="#Servers.0.0.2560.1440" x="817" y="310" />
+    <location key="#com.jetbrains.php.config.servers.PhpEnvironmentValidationDialog#.0.0.2560.1440" x="952" y="475" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.2560.1440" x="811" y="465" />
+    <location key="SettingsEditor.0.0.2560.1440" x="1172" y="314" />
+    <size key="DiffWindow.2560.282.1920.1080" width="1720" height="857" />
+    <size key="StructurePopup.-1920.441.1920.1080" width="424" height="441" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" width="1692" height="678" />
+    <size key="OptionsEditor.0.0.2560.1440" width="1567" height="1006" />
+    <size key="StructurePopup.0.0.2560.1440" width="424" height="441" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="630" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="496" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="496" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="496" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="496" />
+    <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.2560.1440" width="2360" height="1167" />
+    <size key="DiffWindow.0.0.2560.1440" width="2360" height="1167" />
+    <size key="VCS.FileHistoryDialog.0.0.2560.1440" width="2448" height="1299" />
+    <size key="javadoc.popup.0.0.2560.1440" width="600" height="419" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.2560.1440" width="692" height="529" />
+    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+</application>

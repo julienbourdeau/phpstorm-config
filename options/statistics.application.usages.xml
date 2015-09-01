@@ -1,0 +1,162 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="release_manager_web" values="DEFAULT" collectionTime="1441102538603" />
+      <project id="api" values="DEFAULT" collectionTime="0" />
+      <project id="cwota" values="DEFAULT" collectionTime="0" />
+      <project id="ondemand" values="DEFAULT" collectionTime="0" />
+      <project id="RebaseFork" values="DEFAULT" collectionTime="0" />
+      <project id="StarterTheme" values="DEFAULT" collectionTime="1441102538582" />
+      <project id="exportcompta" values="DEFAULT" collectionTime="0" />
+      <project id="PrestaShop" values="DEFAULT" collectionTime="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="release_manager_web" values="not installed" collectionTime="1441102538603" />
+      <project id="api" values="not installed" collectionTime="0" />
+      <project id="cwota" values="not installed" collectionTime="0" />
+      <project id="ondemand" values="not installed" collectionTime="0" />
+      <project id="RebaseFork" values="not installed" collectionTime="0" />
+      <project id="StarterTheme" values="not installed" collectionTime="1441102538584" />
+      <project id="exportcompta" values="5.5.21" collectionTime="0" />
+      <project id="PrestaShop" values="5.5.21" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="release_manager_web" values="Git" collectionTime="1441102538599" />
+      <project id="api" values="Git" collectionTime="0" />
+      <project id="cwota" values="Git" collectionTime="0" />
+      <project id="RebaseFork" values="Git" collectionTime="0" />
+      <project id="StarterTheme" values="Git" collectionTime="1441102538517" />
+      <project id="exportcompta" values="Git" collectionTime="0" />
+      <project id="PrestaShop" values="Git" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="PrestaShop" values="PhpRemoteDebugRunConfigurationType" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="exportcompta" values="PHPUnitRunConfigurationType,JavascriptDebugType" collectionTime="0" />
+      <project id="PrestaShop" values="JavascriptDebugType" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="release_manager_web" values="Blade,CSS,PLAIN_TEXT,TypeScript,SQL,UNKNOWN,SourceMap,SCSS,Less,htaccess,YAML,XML,Smarty,Ini,ARCHIVE,Locale,Images,ReST,JSON,HTML,PHP,JavaScript" collectionTime="1441102538601" />
+      <project id="api" values="XML,htaccess,PLAIN_TEXT,UNKNOWN,PHP" collectionTime="0" />
+      <project id="cwota" values="CSS,PHP,TypeScript,JSON,Locale,Cucumber,YAML,LESS,Blade,ARCHIVE,htaccess,Images,XML,ReST,JavaScript,PLAIN_TEXT,HTML,SCSS,C++,Ini,UNKNOWN" collectionTime="0" />
+      <project id="ondemand" values="JavaScript,PHP,XML,PLAIN_TEXT,JSON,htaccess,Images,Smarty,CSS,HTML,SCSS,SASS,UNKNOWN" collectionTime="0" />
+      <project id="RebaseFork" values="Ini,PHP,JSON,XML,Images,SCSS,SASS,CSS,YAML,SQL,SourceMap,HTML,LESS,UNKNOWN,htaccess,Smarty,JavaScript,PLAIN_TEXT" collectionTime="0" />
+      <project id="StarterTheme" values="Smarty,HTML,PLAIN_TEXT,UNKNOWN,XML,Images,CSS" collectionTime="1441102538532" />
+      <project id="exportcompta" values="SourceMap,UNKNOWN,LESS,JavaScript,Ini,XML,ARCHIVE,HTML,PLAIN_TEXT,SASS,PHP,CSS,Images,Smarty,Markdown,YAML,SQL,DATASOURCE_STORAGE,SCSS,JSON,htaccess" collectionTime="0" />
+      <project id="PrestaShop" values="SQL,htaccess,JavaScript,LESS,UNKNOWN,HTML,XML,CSS,PHP,SourceMap,YAML,JSON,Images,SASS,Markdown,Ini,Smarty,PLAIN_TEXT,SCSS" collectionTime="0" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="exportcompta" values="MySQL/5.6.21" collectionTime="0" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="exportcompta" values="xdebug" collectionTime="0" />
+      <project id="PrestaShop" values="xdebug" collectionTime="0" />
+    </group>
+    <group name="module type">
+      <project id="release_manager_web" values="WEB_MODULE" collectionTime="1441102538599" />
+      <project id="api" values="WEB_MODULE" collectionTime="0" />
+      <project id="cwota" values="WEB_MODULE" collectionTime="0" />
+      <project id="ondemand" values="WEB_MODULE" collectionTime="0" />
+      <project id="RebaseFork" values="WEB_MODULE" collectionTime="0" />
+      <project id="StarterTheme" values="WEB_MODULE" collectionTime="1441102538517" />
+      <project id="exportcompta" values="WEB_MODULE" collectionTime="0" />
+      <project id="PrestaShop" values="WEB_MODULE" collectionTime="0" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="exportcompta" values="com.mysql.jdbc.Driver" collectionTime="0" />
+    </group>
+    <group name="deployment server">
+      <project id="release_manager_web" values="SFTP" collectionTime="1441102538603" />
+      <project id="api" values="SFTP" collectionTime="0" />
+      <project id="cwota" values="SFTP" collectionTime="0" />
+      <project id="ondemand" values="SFTP" collectionTime="0" />
+      <project id="RebaseFork" values="SFTP" collectionTime="0" />
+      <project id="StarterTheme" values="SFTP" collectionTime="1441102538582" />
+      <project id="exportcompta" values="SFTP" collectionTime="0" />
+      <project id="PrestaShop" values="SFTP" collectionTime="0" />
+    </group>
+    <group name="php-interpreters">
+      <project id="release_manager_web" values="1" collectionTime="1441102538603" />
+      <project id="api" values="1" collectionTime="0" />
+      <project id="cwota" values="0" collectionTime="0" />
+      <project id="ondemand" values="1" collectionTime="0" />
+      <project id="RebaseFork" values="1" collectionTime="0" />
+      <project id="StarterTheme" values="1" collectionTime="1441102538594" />
+      <project id="exportcompta" values="1" collectionTime="0" />
+      <project id="PrestaShop" values="1" collectionTime="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="release_manager_web" values="Project,Project" collectionTime="1441102538603" />
+      <project id="api" values="Project,Project" collectionTime="0" />
+      <project id="cwota" values="Project,Project" collectionTime="0" />
+      <project id="ondemand" values="Project,Project" collectionTime="0" />
+      <project id="RebaseFork" values="Project,Project" collectionTime="0" />
+      <project id="StarterTheme" values="Project,Project" collectionTime="1441102538582" />
+      <project id="exportcompta" values="Project,Project" collectionTime="0" />
+      <project id="PrestaShop" values="Project,Project" collectionTime="0" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="release_manager_web" values="0" collectionTime="1441102538604" />
+      <project id="api" values="0" collectionTime="0" />
+      <project id="cwota" values="0" collectionTime="0" />
+      <project id="ondemand" values="0" collectionTime="0" />
+      <project id="RebaseFork" values="0" collectionTime="0" />
+      <project id="StarterTheme" values="0" collectionTime="1441102538595" />
+      <project id="exportcompta" values="0" collectionTime="0" />
+      <project id="PrestaShop" values="0" collectionTime="0" />
+    </group>
+    <group name="php-servers">
+      <project id="release_manager_web" values="0" collectionTime="1441102538603" />
+      <project id="api" values="0" collectionTime="0" />
+      <project id="cwota" values="0" collectionTime="0" />
+      <project id="ondemand" values="0" collectionTime="0" />
+      <project id="RebaseFork" values="0" collectionTime="0" />
+      <project id="StarterTheme" values="0" collectionTime="1441102538584" />
+      <project id="exportcompta" values="0" collectionTime="0" />
+      <project id="PrestaShop" values="1" collectionTime="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="release_manager_web" values="0" collectionTime="1441102538603" />
+      <project id="api" values="0" collectionTime="0" />
+      <project id="cwota" values="0" collectionTime="0" />
+      <project id="ondemand" values="0" collectionTime="0" />
+      <project id="RebaseFork" values="0" collectionTime="0" />
+      <project id="StarterTheme" values="0" collectionTime="1441102538583" />
+      <project id="exportcompta" values="1" collectionTime="0" />
+      <project id="PrestaShop" values="0" collectionTime="0" />
+    </group>
+    <group name="php-server-debug-ext">
+      <project id="PrestaShop" values="xdebug" collectionTime="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="10" />
+      <entry feature="NewDirectoryProjectAction.Composer Project" count="1" />
+      <entry feature="NewDirectoryProjectAction.empty" count="3" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="9" />
+      <entry feature="execute.JavascriptDebugType.Run" count="4" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Run" count="8" />
+      <entry feature="execute.PhpRemoteDebugRunConfigurationType.Debug" count="30" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="2" />
+      <entry feature="ide.settings.Code_Style" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="20" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Debug" count="1" />
+      <entry feature="ide.settings.External_Tools" count="3" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="7" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Keymap" count="11" />
+      <entry feature="ide.settings.PHP" count="12" />
+      <entry feature="ide.settings.PHPUnit" count="1" />
+      <entry feature="ide.settings.SQL_Dialects" count="1" />
+      <entry feature="ideaapp.started" count="70" />
+      <entry feature="tips.of.the.day.next" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>
