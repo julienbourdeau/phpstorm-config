@@ -6,4 +6,5 @@ componentVersions
 tasks/
 jdbc-drivers
 options/
-
+scratches/
+consoles/
